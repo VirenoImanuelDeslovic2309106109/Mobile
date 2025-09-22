@@ -1,16 +1,8 @@
-# flutter_application_1
+Nama: Vireno Imanuel Deslovic
 
-A new Flutter project.
 
-## Getting Started
+NIM: 2309106109
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="492" height="595" alt="Screenshot 2025-09-22 073609" src="https://github.com/user-attachments/assets/0de421b1-06a5-4721-9cc5-5e307645064c" />
